@@ -1,5 +1,7 @@
 Target : 10.129.234.69
 
+Date : 25/05/2026
+
 ```bash
 >  sudo echo "10.129.234.69 delegate.htb" | sudo tee -a /etc/hosts  
 Please touch the FIDO authenticator.  
